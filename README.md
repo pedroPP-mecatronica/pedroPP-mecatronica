@@ -1,4 +1,4 @@
-# My_profile
+# Pedro Galdino
 ## Github Stats
 
 <p align="center">
